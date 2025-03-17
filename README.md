@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&&customColorList=22&text=Welcome%20to&animation=blinking&textBg=false&desc=SpeUjin's%20GitHub&fontSize=90&descSize=90&descAlignY=60&fontAlignY=30&fontColor=FFEEDD"/>
+</div>
 <!--
 **SpeUjin/SpeUjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
